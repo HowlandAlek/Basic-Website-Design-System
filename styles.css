@@ -110,7 +110,6 @@ h2 {
 
 #label-urbanist {
     font-family: "Urbanist", sans-serif;
-    margin-top: 40px;
 }
 
 #regular-urbanist {
@@ -128,7 +127,6 @@ h2 {
 }
 
 #label-sourceCodePro {
-    margin-top: 40px;
     font-family: "Source Code Pro", sans-serif;
 }
 
@@ -157,4 +155,25 @@ h2 {
 
 .label {
     margin-left: 10px;
+}
+
+@media (min-width: 768px) {
+    .fonts-container {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .font-container {
+        margin-right: 40px;
+    }
+
+    .styles-container {
+        display: flex;
+        justify-content: space-around;
+    }
+
+    .styles-container li,
+    .styles-container p {
+        font-family: "Urbanist";
+    }
 }
