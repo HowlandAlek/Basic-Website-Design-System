@@ -1,6 +1,6 @@
 # Basic Website Design System
 
-> Building a basic website design system following guidelines.
+> Building a basic website design system.
 
 ## General info
 
