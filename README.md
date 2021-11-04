@@ -1,18 +1,28 @@
 # Basic Website Design System
-> Basic guidelines for a website design system
 
-## Table of contents
-* [General info](#general-info)
-* [Technologies](#technologies)
-* [Status](#status)
+> Building a basic website design system following guidelines.
 
 ## General info
-This is a project for the Codeacademy Full-Stack Engineer career path. 
 
+This is a portfolio project for the Codeacademy **Full-Stack Engineer** career path.
+
+#### Project Objectives
+
+- Practice positioning and styling with CSS
+- Use Git version control
+- Use command line
+- Develop locally
 
 ## Technologies
-* HTML5
-* CSS
+
+- HTML
+- CSS
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
+
+Project is: _finished_.
+
+## Contact
+
+@HowlandAlek
+
